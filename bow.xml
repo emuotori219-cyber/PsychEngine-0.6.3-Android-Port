@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bow.png">
+<SubTexture name="down0000" x="1945" y="1159" width="490" height="374" frameX="-17" frameY="-215" frameWidth="528" frameHeight="648" />
+<SubTexture name="down0001" x="0" y="1866" width="528" height="374" frameX="0" frameY="-215" frameWidth="528" frameHeight="648" />
+<SubTexture name="down0002" x="1024" y="1260" width="528" height="586" frameX="0" frameY="-62" frameWidth="528" frameHeight="648" />
+<SubTexture name="idle0000" x="988" y="0" width="487" height="616" frameX="-41" frameY="-32" frameWidth="528" frameHeight="648" />
+<SubTexture name="left0000" x="503" y="1260" width="521" height="599" frameX="0" frameY="-49" frameWidth="528" frameHeight="648" />
+<SubTexture name="left0001" x="0" y="648" width="512" height="612" frameX="-11" frameY="-36" frameWidth="528" frameHeight="648" />
+<SubTexture name="left0002" x="512" y="648" width="528" height="611" frameX="0" frameY="-37" frameWidth="528" frameHeight="648" />
+<SubTexture name="right0000" x="1945" y="585" width="450" height="574" frameX="-78" frameY="-74" frameWidth="528" frameHeight="648" />
+<SubTexture name="right0001" x="1475" y="0" width="470" height="608" frameX="-56" frameY="-40" frameWidth="528" frameHeight="648" />
+<SubTexture name="right0002" x="503" y="0" width="485" height="622" frameX="-40" frameY="-26" frameWidth="528" frameHeight="648" />
+<SubTexture name="up0000" x="0" y="0" width="503" height="648" frameX="-25" frameY="0" frameWidth="528" frameHeight="648" />
+<SubTexture name="up0001" x="0" y="1260" width="503" height="606" frameX="-25" frameY="-42" frameWidth="528" frameHeight="648" />
+<SubTexture name="up0002" x="1945" y="0" width="505" height="585" frameX="-23" frameY="-63" frameWidth="528" frameHeight="648" />
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="joel.png">
+<SubTexture name="idle0000" x="0" y="3741" width="1414" height="1774" frameX="-400" frameY="-105" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="idle0001" x="1430" y="1878" width="1448" height="1825" frameX="-400" frameY="-53" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="down0000" x="4518" y="0" width="1480" height="1799" frameX="-407" frameY="-55" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="down0001" x="1414" y="3741" width="1467" height="1766" frameX="-398" frameY="-82" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="left0000" x="4518" y="1799" width="1315" height="1798" frameX="-405" frameY="-74" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="left0001" x="2878" y="1878" width="1316" height="1804" frameX="-417" frameY="-79" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="right0000" x="1439" y="0" width="1551" height="1875" frameX="-422" frameY="-103" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="right0001" x="2990" y="0" width="1528" height="1871" frameX="-434" frameY="-109" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="up0000" x="0" y="1878" width="1430" height="1863" frameX="-403" frameY="-56" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="up0001" x="0" y="0" width="1439" height="1878" frameX="-398" frameY="-33" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

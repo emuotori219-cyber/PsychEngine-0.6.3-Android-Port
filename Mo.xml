@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mo.png">
+<SubTexture name="statuemove0000" x="0" y="0" width="316" height="615" frameX="-293" frameY="-201" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0001" x="316" y="0" width="316" height="615" frameX="-293" frameY="-201" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0002" x="632" y="0" width="316" height="615" frameX="-293" frameY="-201" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0003" x="948" y="0" width="315" height="614" frameX="-293" frameY="-202" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0004" x="0" y="615" width="315" height="614" frameX="-293" frameY="-202" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0005" x="315" y="615" width="314" height="613" frameX="-293" frameY="-203" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0006" x="629" y="615" width="313" height="612" frameX="-293" frameY="-204" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0007" x="942" y="615" width="312" height="611" frameX="-293" frameY="-205" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0008" x="1263" y="0" width="311" height="610" frameX="-293" frameY="-206" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0009" x="1263" y="610" width="310" height="609" frameX="-293" frameY="-207" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0010" x="1574" y="0" width="309" height="608" frameX="-293" frameY="-208" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0011" x="1574" y="608" width="308" height="607" frameX="-293" frameY="-209" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0012" x="0" y="1229" width="308" height="607" frameX="-293" frameY="-209" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0013" x="308" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0014" x="615" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0015" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0016" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0017" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0018" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0019" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0020" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0021" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0022" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0023" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0024" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0025" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0026" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0027" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0028" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="statuemove0029" x="922" y="1229" width="307" height="606" frameX="-293" frameY="-210" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

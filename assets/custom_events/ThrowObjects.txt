@@ -1,0 +1,2 @@
+Value 1: Amount of Seconds
+Value 2: Nothing

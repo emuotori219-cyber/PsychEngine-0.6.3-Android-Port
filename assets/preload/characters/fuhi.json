@@ -1,0 +1,86 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "right",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-166,
+				-13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"offsets": [
+				-28,
+				-3
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fuhi",
+	"position": [
+		30,
+		250
+	],
+	"healthicon": "fuhi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		191,
+		0
+	],
+	"camera_position": [
+		-340,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

@@ -1,0 +1,131 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-190,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-210,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-260,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-134,
+				-188
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-200,
+				-110
+			],
+			"indices": [
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38
+			],
+			"fps": 17,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-200,
+				-110
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/v2/muu",
+	"position": [
+		-150,
+		-80
+	],
+	"healthicon": "muu",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		244,
+		99
+	],
+	"camera_position": [
+		-60,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}
